@@ -1,0 +1,30 @@
+#jsm_iframe_preview{
+	display:none;
+}
+.fa-select {
+    font-family: sans-serif, 'FontAwesome';
+    font-size:10px;
+}
+.jsm_select {
+	vertical-align: top !important;
+}	
+.form-table th {
+	width: 250px;
+}
+#TB_ajaxContent {
+	width:96% !important;
+	height:86% !important;
+	overflow:scroll;
+}
+#TB_ajaxWindowTitle{
+	text-align:center;
+}
+body {
+	background:none;
+}
+.help-header{
+	margin-top:10px;
+}
+.cur-cat-js{
+	padding-top: 11px;
+}
